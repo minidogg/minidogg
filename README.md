@@ -1,4 +1,5 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Minidogg&layout=compact)](https://github.com/Minidogg)
+[![Profile Stats](https://github-readme-stats.vercel.app/api?username=Minidogg&show_icons=true&theme=github_dark_dimmed)](https://github.com/Minidogg)
 
 
 <!--
