@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 -->
 
 I like coding things.  
-[![](https://skillicons.dev/icons?i=js,html,css,wasm)]()
+[![](https://skillicons.dev/icons?i=js,html,css,wasm,bash,c,cs,cpp,discord,bots,discordjs,dotnet,electron,express,github,git,godot,linux,md,lua,npm,vue,nuxtjs,pnpm,regex,ts,vercel,visualstudio,vscode,windows,webpack,py,robloxstudio,stackoverflow,svelte&perline=6)]()
