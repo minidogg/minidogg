@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 -->
 
 I like coding things.
-[![](https://github.com/tandpfun/skill-icons/raw/main/icons/Blender-Dark.svg)]()
+[![](https://skillicons.dev/icons?i=js,html,css,wasm)]()
