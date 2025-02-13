@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I like coding things.
+I like coding things.  
 [![](https://skillicons.dev/icons?i=js,html,css,wasm)]()
